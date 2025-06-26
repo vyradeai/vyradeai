@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.vyrade.ai/wp-content/uploads/2025/01/vyrade-logo-v3.svg">
 
-# Vyrade: The AI Workflow Discovery Engine
+# ⚡Vyrade: The AI Workflow Discovery Engine
 
 **Open-source library of AI-powered workflows. Discover, compare, and share automations for real-world productivity.**
 
