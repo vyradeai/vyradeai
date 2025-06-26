@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://www.vyrade.ai/wp-content/uploads/2025/06/VyradeGithubBanner.gif" />
+  <img src="https://www.vyrade.ai/wp-content/uploads/2025/01/vyrade-logo-v3.svg/>
 
-# ⚡ Vyrade: The AI Workflow Discovery Engine
+# 🌐 Vyrade: The AI Workflow Discovery Engine
 
-<p align="center"><strong>Discover, compare, and share real-world AI workflows — open-source and community-powered.</strong></p>
+**Open-source library of AI-powered workflows. Discover, compare, and share automations for real-world productivity.**
 
-[![Visit Vyrade](https://img.shields.io/badge/Visit%20Website-vyrade.ai-0A0A23?style=for-the-badge&logo=vercel&logoColor=white)](https://vyrade.ai)
+[![Website](https://img.shields.io/badge/Visit%20Website-vyrade.ai-0A0A23?style=for-the-badge&logo=vercel&logoColor=white)](https://vyrade.ai)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge&logo=github)](https://github.com/vyradeAI)
-[![Built with n8n](https://img.shields.io/badge/Built%20With-n8n-blue?style=for-the-badge&logo=n8n)](https://n8n.io/)
+[![Built with N8N](https://img.shields.io/badge/Built%20with-n8n-blue?style=for-the-badge&logo=n8n)](https://n8n.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 </div>
@@ -16,39 +16,43 @@
 
 ## 📌 Why Vyrade?
 
-> AI tools are exploding. But discovery is broken.  
-> 70% of users can’t find the right tools. 60% don’t trust reviews.  
-> **Vyrade** fixes this with open workflows, real-world usage, and trustless comparisons.
+> AI is exploding — but chaos reigns.  
+> With over **30,000 AI tools** and no clear benchmarks, most users are left confused or skeptical.  
+> **Vyrade** fixes this with workflows, not opinions.
 
-✅ Make tools comparable  
-✅ Show real use cases  
-✅ Foster a contributor-powered ecosystem
-
----
-
-## 📁 Repository Structure
-
-| Folder         | Description |
-|----------------|-------------|
-| `workflows/`   | AI workflows (JSON + Markdown) |
-| `integrations/`| Guides & SDKs (Make, Zapier, LangChain, etc.) |
-| `examples/`    | Screenshots, use cases, Loom demos |
-| `roadmap/`     | Our public product roadmap |
-| `docs/`        | API guide, embed instructions, contributor docs |
+✅ Make AI tools comparable  
+✅ Show real-world use cases  
+✅ Foster a contributor-driven knowledge engine
 
 ---
 
-## 🚀 Key Features
+## 📁 What’s Inside
 
-- 🌐 Largest community-contributed workflow library  
-- 🧠 AI tool comparisons (e.g., Jasper vs Copy.ai)  
-- ⚙️ Deep integrations with LangChain, Make.com, Notion  
-- 🏆 Weekly community challenges + leaderboard  
-- 🔌 API access for custom embed + discovery widgets
+This repository powers our **AI workflow leaderboard** and contains:
+
+| Folder        | Description |
+|---------------|-------------|
+| `workflows/`  | Community-submitted AI workflows (JSON + Markdown) |
+| `integrations/` | SDKs and how-to guides for Make.com, Zapier, LangChain, Clay, and more |
+| `examples/`   | Real-world use cases, screenshots, and demos |
+| `roadmap/`    | Our public product roadmap (editable by contributors) |
+| `docs/`       | Developer resources, embed API docs, and contributor onboarding |
 
 ---
 
-## 🔌 Supported Integrations
+## 🧠 Key Features
+
+- 🌍 **Largest open library** of AI-powered workflows  
+- 📊 **Live comparison dashboards** (e.g., Copy.ai vs Jasper)  
+- 🔌 **Deep integrations** with tools like Notion, Airtable, Make, LangChain  
+- 🏆 **Workflow of the Week** campaigns  
+- 🧑‍💻 **Contributor leaderboard** synced to Vyrade’s main site
+
+---
+
+## ⚙️ Supported Integrations
+
+We support any tool you love to automate with:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Make.com-5936FF?logo=make&logoColor=white" />
@@ -58,84 +62,78 @@
   <img src="https://img.shields.io/badge/Clay-black?logo=clay&logoColor=white" />
 </p>
 
-> Coming soon: OpenAI Assistants, Retool, Bardeen, etc.
+> Coming soon: OpenAI Assistants, Retool, Bardeen, and more
 
 ---
 
-## 🌐 Try It Live
+## 🚀 Try Vyrade Live
 
-🔗 **Explore workflows:** [https://vyrade.ai](https://vyrade.ai)  
-📥 **Submit yours:** [vyrade.ai/submit-workflow](https://vyrade.ai/submit-workflow)
+Explore AI workflows. Compare tools. Submit your own.
+
+🔗 **[Visit Vyrade →](https://vyrade.ai)**  
+🔗 **[Submit a Workflow →](https://vyrade.ai/submit-workflow)**
 
 ---
 
-## 🧩 Contribute a Workflow
+## ✍️ How to Contribute
 
-### ✍️ How to Submit
+Join the movement. Help us map the future of automation.
+
+### 🛠 Submit a Workflow
 1. Fork this repo  
-2. Add your `.json` and `.md` files under `/workflows`  
-3. Submit a pull request  
-4. Or use [this submission form](https://vyrade.ai/submit-workflow)
+2. Add your `.json` and `.md` files to `workflows/`  
+3. Submit a PR or use the [submission form](https://vyrade.ai/submit-workflow)
 
-### 🧠 Tips
-- Name your file like `notion-openai-email-summarizer.md`
-- Include tool tags and inputs/outputs
-- Add screenshots or demo links (e.g. Loom)
-
----
-
-## 🏆 Workflow of the Week
-
-We highlight one amazing community workflow each week.
-
-🏅 Winner gets:
-- Feature on our website and GitHub
-- Custom shoutout and badge
-- Early beta access to upcoming tools
+### 🧩 Format Guidelines
+- Include tool names in the filename: `notion-openai-email-summarizer.md`
+- Include input/output examples
+- Screenshots or Loom demos = bonus points ✨
 
 ---
 
-## 📊 Public Leaderboard (Coming Soon)
+## 🏅 Contributor Recognition
 
-Tracking:
-- ⭐ Top AI tools
-- 📈 Most-used workflows
-- 👥 Most active contributors
+We spotlight our top builders with:
+- 🧢 Public leaderboard & profile links
+- 🚀 Early access to beta features
+- 🏆 “Workflow of the Week” awards
+- 🖼️ Optional contributor NFTs
 
-Automatically synced with [vyrade.ai](https://vyrade.ai) via GitHub Actions
-
----
-
-## 🧭 Roadmap Preview
-
-- ✅ GitHub-integrated workflow board  
-- 🔄 Auto-sync workflows via GitHub Actions  
-- 📈 Community analytics and search tracking  
-- 🤖 AI-assisted workflow builder (beta)
-
-🔗 [See Full Roadmap →](./roadmap/ROADMAP.md)
+See `/roadmap/` and `/leaderboard.json` for upcoming rewards.
 
 ---
 
-## 🤝 Community & Support
+## 🔭 Roadmap Preview
 
-| Platform | Join Us |
-|----------|---------|
-| 💬 GitHub Discussions | [Start Here](https://github.com/vyradeAI/official-vyrade-ai-workflow-leaderboard/discussions) |
-| 📮 Email | [hello@vyrade.ai](mailto:hello@vyrade.ai) |
-| 🧵 Reddit | [r/Artificial](https://reddit.com/r/artificial) |
+- ✅ Launch GitHub-integrated leaderboard
+- 🔄 Auto-sync workflows via GitHub Actions
+- 📈 Tool usage analytics dashboard
+- 🤖 AI-assisted workflow generator (beta)
+
+👉 [View Full Roadmap](./roadmap/ROADMAP.md)
+
+---
+
+## 🌍 Join the Community
+
+| Platform | Link |
+|----------|------|
+| 💬 GitHub Discussions | [Join Chat](https://github.com/vyradeAI/official-vyrade-ai-workflow-leaderboard/discussions) |
+| 🧠 Reddit Launchpad | [r/Artificial](https://reddit.com/r/artificial) |
+| 📮 Contact Us | [hello@vyrade.ai](mailto:hello@vyrade.ai) |
 
 ---
 
 ## 📜 License
 
-Licensed under the **MIT License** — use freely, contribute openly, build together.
+This project is licensed under the MIT License.  
+Feel free to fork, remix, and build upon it.
 
 ---
 
 <div align="center">
 
-Built with ❤️ by the [Vyrade Team](https://vyrade.ai/team)  
-_“Open-source for builders, by builders.”_
+**Built with ❤️ by the [Vyrade Team](https://vyrade.ai/team)**  
+Open-source for builders, by builders.
 
 </div>
