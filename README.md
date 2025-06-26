@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.vyrade.ai/wp-content/uploads/2025/01/vyrade-logo-v3.svg">
+ <img src="https://www.vyrade.ai/wp-content/uploads/2025/01/vyrade-logo-v3.svg" width="200" alt="Vyrade.ai Logo">
 
 # ⚡Vyrade: The AI Workflow Discovery Engine
 
