@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://www.vyrade.ai/wp-content/uploads/2025/01/vyrade-logo-v3.svg/>
+  <img src="https://www.vyrade.ai/wp-content/uploads/2025/01/vyrade-logo-v3.svg">
 
-# 🌐 Vyrade: The AI Workflow Discovery Engine
+# Vyrade: The AI Workflow Discovery Engine
 
 **Open-source library of AI-powered workflows. Discover, compare, and share automations for real-world productivity.**
 
@@ -116,10 +116,12 @@ See `/roadmap/` and `/leaderboard.json` for upcoming rewards.
 
 ## 🌍 Join the Community
 
-| Platform | Link |
-|----------|------|
-| 💬 GitHub Discussions | [Join Chat](https://github.com/vyradeAI/official-vyrade-ai-workflow-leaderboard/discussions) |
-| 🧠 Reddit Launchpad | [r/Artificial](https://reddit.com/r/artificial) |
+| Platform     | Link |
+|--------------|------|
+| 💼 LinkedIn | [Vyrade.ai on LinkedIn](https://www.linkedin.com/company/vyrade-ai) |
+| 📸 Instagram | [@vyrade.ai](https://www.instagram.com/vyrade.ai) |
+| 🐦 Twitter (X) | [@vyrade_ai](https://twitter.com/vyrade_ai) |
+| 📬 Substack | [vyradeai.substack.com](https://vyradeai.substack.com) |
 | 📮 Contact Us | [hello@vyrade.ai](mailto:hello@vyrade.ai) |
 
 ---
