@@ -134,7 +134,7 @@ Feel free to fork, remix, and build upon it.
 
 <div align="center">
 
-**Built with ❤️ by the [Vyrade Team](https://vyrade.ai/team)**  
+**Built with ❤️ by the [Vyrade Team]**  
 Open-source for builders, by builders.
 
 </div>
